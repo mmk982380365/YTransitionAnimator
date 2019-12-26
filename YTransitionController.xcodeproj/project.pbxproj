@@ -14,10 +14,10 @@
 		4F2ADC1A23B454D200924C64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F2ADC1923B454D200924C64 /* Assets.xcassets */; };
 		4F2ADC1D23B454D200924C64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F2ADC1B23B454D200924C64 /* LaunchScreen.storyboard */; };
 		4F2ADC2023B454D200924C64 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2ADC1F23B454D200924C64 /* main.m */; };
-		4F2ADC3123B4552700924C64 /* YPushAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2ADC2923B4552700924C64 /* YPushAnimator.m */; };
-		4F2ADC3223B4552700924C64 /* YBaseAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2ADC2A23B4552700924C64 /* YBaseAnimator.m */; };
-		4F2ADC3323B4552700924C64 /* UIViewController+YInteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2ADC2E23B4552700924C64 /* UIViewController+YInteractiveTransition.m */; };
-		4F2ADC3423B4552700924C64 /* YTransitionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2ADC3023B4552700924C64 /* YTransitionController.m */; };
+		4F2ADC4723B4589400924C64 /* YPushAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2ADC3F23B4589300924C64 /* YPushAnimator.m */; };
+		4F2ADC4823B4589400924C64 /* YBaseAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2ADC4023B4589300924C64 /* YBaseAnimator.m */; };
+		4F2ADC4923B4589400924C64 /* UIViewController+YInteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2ADC4423B4589300924C64 /* UIViewController+YInteractiveTransition.m */; };
+		4F2ADC4A23B4589400924C64 /* YTransitionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F2ADC4623B4589300924C64 /* YTransitionController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,14 +33,14 @@
 		4F2ADC1C23B454D200924C64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F2ADC1E23B454D200924C64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4F2ADC1F23B454D200924C64 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4F2ADC2823B4552700924C64 /* YBaseAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YBaseAnimator.h; sourceTree = "<group>"; };
-		4F2ADC2923B4552700924C64 /* YPushAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YPushAnimator.m; sourceTree = "<group>"; };
-		4F2ADC2A23B4552700924C64 /* YBaseAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YBaseAnimator.m; sourceTree = "<group>"; };
-		4F2ADC2B23B4552700924C64 /* YPushAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YPushAnimator.h; sourceTree = "<group>"; };
-		4F2ADC2C23B4552700924C64 /* YTransitionController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YTransitionController.h; sourceTree = "<group>"; };
-		4F2ADC2E23B4552700924C64 /* UIViewController+YInteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+YInteractiveTransition.m"; sourceTree = "<group>"; };
-		4F2ADC2F23B4552700924C64 /* UIViewController+YInteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+YInteractiveTransition.h"; sourceTree = "<group>"; };
-		4F2ADC3023B4552700924C64 /* YTransitionController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YTransitionController.m; sourceTree = "<group>"; };
+		4F2ADC3E23B4589300924C64 /* YBaseAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YBaseAnimator.h; sourceTree = "<group>"; };
+		4F2ADC3F23B4589300924C64 /* YPushAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YPushAnimator.m; sourceTree = "<group>"; };
+		4F2ADC4023B4589300924C64 /* YBaseAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YBaseAnimator.m; sourceTree = "<group>"; };
+		4F2ADC4123B4589300924C64 /* YPushAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YPushAnimator.h; sourceTree = "<group>"; };
+		4F2ADC4223B4589300924C64 /* YTransitionController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YTransitionController.h; sourceTree = "<group>"; };
+		4F2ADC4423B4589300924C64 /* UIViewController+YInteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+YInteractiveTransition.m"; sourceTree = "<group>"; };
+		4F2ADC4523B4589300924C64 /* UIViewController+YInteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+YInteractiveTransition.h"; sourceTree = "<group>"; };
+		4F2ADC4623B4589300924C64 /* YTransitionController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YTransitionController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,7 +73,7 @@
 		4F2ADC0C23B454D000924C64 /* YTransitionController */ = {
 			isa = PBXGroup;
 			children = (
-				4F2ADC2623B4552700924C64 /* TransitionAnimator */,
+				4F2ADC3C23B4589300924C64 /* YTransitionAnimator */,
 				4F2ADC0D23B454D000924C64 /* AppDelegate.h */,
 				4F2ADC0E23B454D000924C64 /* AppDelegate.m */,
 				4F2ADC1023B454D000924C64 /* SceneDelegate.h */,
@@ -89,33 +89,33 @@
 			path = YTransitionController;
 			sourceTree = "<group>";
 		};
-		4F2ADC2623B4552700924C64 /* TransitionAnimator */ = {
+		4F2ADC3C23B4589300924C64 /* YTransitionAnimator */ = {
 			isa = PBXGroup;
 			children = (
-				4F2ADC2723B4552700924C64 /* Animator */,
-				4F2ADC2D23B4552700924C64 /* InteractiveTransition */,
-				4F2ADC2C23B4552700924C64 /* YTransitionController.h */,
-				4F2ADC3023B4552700924C64 /* YTransitionController.m */,
+				4F2ADC3D23B4589300924C64 /* Animator */,
+				4F2ADC4223B4589300924C64 /* YTransitionController.h */,
+				4F2ADC4323B4589300924C64 /* InteractiveTransition */,
+				4F2ADC4623B4589300924C64 /* YTransitionController.m */,
 			);
-			path = TransitionAnimator;
+			path = YTransitionAnimator;
 			sourceTree = SOURCE_ROOT;
 		};
-		4F2ADC2723B4552700924C64 /* Animator */ = {
+		4F2ADC3D23B4589300924C64 /* Animator */ = {
 			isa = PBXGroup;
 			children = (
-				4F2ADC2823B4552700924C64 /* YBaseAnimator.h */,
-				4F2ADC2A23B4552700924C64 /* YBaseAnimator.m */,
-				4F2ADC2B23B4552700924C64 /* YPushAnimator.h */,
-				4F2ADC2923B4552700924C64 /* YPushAnimator.m */,
+				4F2ADC3E23B4589300924C64 /* YBaseAnimator.h */,
+				4F2ADC3F23B4589300924C64 /* YPushAnimator.m */,
+				4F2ADC4023B4589300924C64 /* YBaseAnimator.m */,
+				4F2ADC4123B4589300924C64 /* YPushAnimator.h */,
 			);
 			path = Animator;
 			sourceTree = "<group>";
 		};
-		4F2ADC2D23B4552700924C64 /* InteractiveTransition */ = {
+		4F2ADC4323B4589300924C64 /* InteractiveTransition */ = {
 			isa = PBXGroup;
 			children = (
-				4F2ADC2F23B4552700924C64 /* UIViewController+YInteractiveTransition.h */,
-				4F2ADC2E23B4552700924C64 /* UIViewController+YInteractiveTransition.m */,
+				4F2ADC4423B4589300924C64 /* UIViewController+YInteractiveTransition.m */,
+				4F2ADC4523B4589300924C64 /* UIViewController+YInteractiveTransition.h */,
 			);
 			path = InteractiveTransition;
 			sourceTree = "<group>";
@@ -190,10 +190,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F2ADC3123B4552700924C64 /* YPushAnimator.m in Sources */,
-				4F2ADC3323B4552700924C64 /* UIViewController+YInteractiveTransition.m in Sources */,
-				4F2ADC3423B4552700924C64 /* YTransitionController.m in Sources */,
-				4F2ADC3223B4552700924C64 /* YBaseAnimator.m in Sources */,
+				4F2ADC4723B4589400924C64 /* YPushAnimator.m in Sources */,
+				4F2ADC4923B4589400924C64 /* UIViewController+YInteractiveTransition.m in Sources */,
+				4F2ADC4A23B4589400924C64 /* YTransitionController.m in Sources */,
+				4F2ADC4823B4589400924C64 /* YBaseAnimator.m in Sources */,
 				4F2ADC1523B454D000924C64 /* ViewController.m in Sources */,
 				4F2ADC0F23B454D000924C64 /* AppDelegate.m in Sources */,
 				4F2ADC2023B454D200924C64 /* main.m in Sources */,
